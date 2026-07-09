@@ -166,10 +166,6 @@
         <td><strong>🐙 GitHub</strong></td>
         <td><a href="https://github.com/itsArvindSingh">itsArvindSingh</a></td>
     </tr>
-    <tr>
-        <td><strong>📧 Email</strong></td>
-        <td><a href="mailto:234242424+itsArvindSingh@users.noreply.github.com">234242424+itsArvindSingh@users.noreply.github.com</a></td>
-    </tr>
 </table>
 
 <hr/>
