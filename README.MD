@@ -155,14 +155,6 @@
         <td>BTech Computer Science & Engineering (AIML)</td>
     </tr>
     <tr>
-        <td><strong>📅 Semester</strong></td>
-        <td>3rd Semester</td>
-    </tr>
-    <tr>
-        <td><strong>🎓 Enrollment No.</strong></td>
-        <td><strong>92500118080</strong></td>
-    </tr>
-    <tr>
         <td><strong>🐙 GitHub</strong></td>
         <td><a href="https://github.com/itsArvindSingh">itsArvindSingh</a></td>
     </tr>
