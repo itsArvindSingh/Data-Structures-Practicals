@@ -30,8 +30,8 @@ int main() {
                 scanf("%d", &pos);
                 printf("Enter the value: ");
                 scanf("%d", &val);
-                for( i = pos ; i < n+1 ; i++){
-                    arr[i+1] = arr[i];
+                for( i = n ; i > pos ; i--){
+                    arr[i] = arr[i-1];
                 }
                 arr[pos] = val;
                 n++;
